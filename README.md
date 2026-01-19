@@ -60,8 +60,7 @@ Invalid and exceptional inputs
 All unit tests pass successfully.
 
 How to Run the Project in VS Code
-1. Clone the Repository
-bash git clone https://github.com/charankumar01/CCP-CHARAN-CS.git
+1. Clone the Repository    https://github.com/Ram67452/CCP-RAM-KUMAR.git
 
 2. Open in Visual Studio Code
 Open VS Code Select File → Open Folder Open the cloned project folder Ensure the Java Extension Pack is installed Make sure a compatible JDK is configured
